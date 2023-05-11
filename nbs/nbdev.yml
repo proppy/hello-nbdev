@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hello-nbdev"
+  site-url: "https://proppy.github.io/hello-nbdev"
+  description: "nbdev hello project"
+  repo-branch: main
+  repo-url: "https://github.com/proppy/hello-nbdev"
